@@ -1,1 +1,1 @@
-# lazy_programm_for_dyplomacy
+# secret development for the diplomacy department
