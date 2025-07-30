@@ -1,0 +1,1 @@
+# lazy_programm_for_dyplomacy
